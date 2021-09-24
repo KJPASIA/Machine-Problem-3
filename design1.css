@@ -1,0 +1,128 @@
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.content{
+    background: wheat;
+    width: 65%;
+    padding: 40px;
+    margin: 100px auto;
+}
+.profile{
+    border-radius: 50%;
+    width: 45%;
+    height: 45%;
+    align-self: center;
+}
+.name{
+    margin-left: 8%;
+    font-family: constantia;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to right, #e8198b, #070707);
+    -webkit-text-fill-color: transparent;
+    color: #464646;
+}
+.name2{
+    margin-left: 4%;
+    font-size: 20px;
+    font-family: bookman old style;
+    font-weight: lighter;
+}
+.name3{
+    margin-left: 6%;
+    font-size: 20px;
+    font-family: bookman old style;
+    font-weight: lighter;
+}
+.name4{
+    margin-left: 13%;
+    font-size: 20px;
+    font-family: bookman old style;
+    font-weight: lighter;
+}
+.me{
+    margin-right: 15%;
+    float: right;
+    font-size: 30px;
+    font-family: Broadway;
+    -webkit-background-clip: text;
+    background-image: linear-gradient(to right, #e8198b, #070707);
+    -webkit-text-fill-color: transparent;
+    color: #464646;
+    
+}
+.me1{
+    position: absolute;
+    top:30%;
+    margin-left: 32%;
+    margin-right: 20%;
+    text-align: justify;
+    font-family: bookman old style;
+}
+.me2{
+    position: absolute;
+    top:90%;
+    margin-left: 43%;
+    margin-right: 20%;
+    text-align: justify;
+    font-family: bookman old style;
+    font-style: italic;
+    font-weight: bold;
+}
+.fb{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+    top:105%;
+    float:right;
+    position: relative;
+    left: 0%;
+
+}
+.twi{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+    float:right;
+    position: relative;
+    left: .10%;
+}
+.tik{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+    float:right;
+    position: relative;
+    left: 35%;
+}
+.insta{
+    border-radius: 50%;
+    width: 5%;
+    height: 5%;
+    float:right;
+    position: relative;
+    left: 45%;
+}
+.btn8{
+   background: white;
+   width: 6%;
+   padding: 11px;
+   font-size: 13px;
+   position: absolute;
+   top: 98%;
+   left: 93%;
+       background-color: #ff1010;
+       background-image: -moz-linear-gradient(top, #ffa9a9, #e16d6d);
+       background-image: -ms-linear-gradient(top, #ffa9a9, #e16d6d);
+       background-image: webkit-gradient(linear, 0 0, 0 100%, from(#ffa9a9), to(#e16d6d));
+       background-image: -webkit-linear-gradient(top, #ffa9a9, #e16d6d);
+       background-image: -o-linear-gradient(top, #ffa9a9, #e16d6d);
+       background-image: linear-gradient(top, #ffa9a9, #e16d6d);
+       filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffa9a9', endColorstr='#e16d6d', GradientType=0);
+       border-color: #FF8B8B #e16d6d #e16d6d #FF8B8B;
+       border-color: rgba(0, 0, 0, 0.25) rgba(0, 0, 0, 0.35) rgba(0, 0, 0, 0.35) rgba(0, 0, 0, 0.25);
+       position: absolute;
+
+}
